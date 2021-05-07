@@ -1,4 +1,4 @@
-rt pandas as pd
+import pandas as pd
 import matplotlib.pyplot as plt
 
 # save this file as 2yma.py . to get updated dates go to quandl.com, make an account with a throwaway email (or real one, up to u) then download this file
